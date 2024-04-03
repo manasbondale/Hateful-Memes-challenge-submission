@@ -1,6 +1,6 @@
 **Hateful Memes Challenge Submission: Multi-Modal Offensiveness Detection**
 
-![Hateful Memes]
+Hateful Memes
 
 Welcome to our submission for the Hateful Memes Challenge hosted by Meta! In this challenge, we tackled the task of detecting the offensiveness of memes, specifically focusing on multi-modal input consisting of 
 images overlaid with captions. Our submission is a neural network transformer model capable of analyzing these multi-modal inputs and providing accurate predictions regarding the offensiveness of the content.
